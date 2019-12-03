@@ -1,0 +1,13 @@
+
+.pane1{
+    -fx-background-image: url("../images/1.jpg"); 
+}
+.pane2{
+    -fx-background-image: url("../images/2.jpg"); 
+}
+.pane3{
+    -fx-background-image: url("../images/3.jpg"); 
+}
+.pane4{
+    -fx-background-image: url("../images/4.jpg"); 
+}
